@@ -29,7 +29,7 @@
 
 ДЗ нужно сдавать в виде .ipynb-ноутбуков с решениями. Название должно быть ФамилияИнициалы.ipynb
 
-ДЗ1 - [сюда](https://www.dropbox.com/request/Ek28uuywrc1sjHdCNza4)
+ДЗ1 - [сюда](https://www.dropbox.com/request/Ek28uuywrc1sjHdCNza4) срок 26.09.2021
 
 ДЗ2 -  
 
