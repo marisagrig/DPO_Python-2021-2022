@@ -13,7 +13,16 @@
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect%201)
 
 2 занятие (11.09.2021)
-[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_Python_2021/tree/main/lect02_complex_types_if_else)
+[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect2)
+
+3 занятие (14.09.2021)
+[Регулярные выражения](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect3)
+
+4 занятие (18.09.2021)
+[Цикл for. Применение циклов к строкам, спискам, кортежам и словарям. Альтернатива коду с циклами: списковые включения.Итераторы, генераторы списков.](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect4)
+
+5 занятие (21.09.2021)
+[Устройство функций в Python. Написание простейших функций. Lambda-функции. Функция map(). Написание сложных функций. генераторы, Декораторы, Рекурсия.](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect4)
 
 Формы контроля
 
@@ -31,7 +40,7 @@
 
 ДЗ1 - [сюда](https://www.dropbox.com/request/Ek28uuywrc1sjHdCNza4) срок 26.09.2021
 
-ДЗ2 -  
+ДЗ2 - [сюда](https://www.dropbox.com/request/ycyVfEn7hsuOdOWhspAk) срок 03.10.2021
 
 ДЗ3 -  
 
