@@ -42,7 +42,7 @@
 
 ДЗ2 - [сюда](https://www.dropbox.com/request/ycyVfEn7hsuOdOWhspAk) срок 03.10.2021
 
-ДЗ3 -  
+ДЗ3 - [сюда](https://www.dropbox.com/request/gwvxECLhG3jUGhvMyWmZ) срок 10.10.2021
 
 ДЗ4 - 
 
