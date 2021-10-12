@@ -50,7 +50,7 @@
 
 Ведомость с оценками
 
-[Здесь будет ссылка. Пока ее нет]()
+[Ведомость](https://docs.google.com/spreadsheets/d/1S7n_C0T6hX3DuIPcTIR-cJrcWtqz1fg6r6ft3IKOGzA/edit#gid=0)
 
 Куда сдавать задания и в какие сроки
 
