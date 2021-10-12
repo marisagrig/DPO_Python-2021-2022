@@ -33,6 +33,15 @@
 8 занятие (02.10.2021)
 [HTML, парсинг информации из интернета, BeautifulSoup часть 2](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect8)
 
+9 занятие (05.10.2021)
+[Основы SQL, SQL-запросы в Python, Clickhouse](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect9)
+
+10 занятие (09.10.2021)
+[Управление браузером с помощью Selenium, обработка Excel-файлов с помощью Openpyxl](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect10)
+
+11 занятие (12.10.2021)
+[Классы в Python, Метод k ближайших соседей, постановка на расписание](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect11)
+
 Формы контроля
 
 Всего на курсе запланировано 5 дз в блоке "Программирование на Python" (включая финальный проект. Он большой.) и 4 дз в блоке "Python для анализа данных".
