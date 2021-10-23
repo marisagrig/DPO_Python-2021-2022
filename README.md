@@ -42,6 +42,12 @@
 11 занятие (12.10.2021)
 [Классы в Python, Метод k ближайших соседей, постановка на расписание](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect11)
 
+12 занятие (16.10.2021)
+[Telegram-бот](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect12)
+
+13 занятие (23.10.2021)
+[Telegram-бот: выкладка на Heroku. Numpy-массивы](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect13)
+
 Формы контроля
 
 Всего на курсе запланировано 5 дз в блоке "Программирование на Python" (включая финальный проект. Он большой.) и 4 дз в блоке "Python для анализа данных".
