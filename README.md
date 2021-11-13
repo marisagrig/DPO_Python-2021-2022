@@ -77,9 +77,9 @@ ________________________________________________________________________________
 
 ДЗ5 - Telegram-бот. Сдача мне в Telegram :) срок 21.11.2021
 
-ДЗ6 - 
+ДЗ6 - [сюда](https://www.dropbox.com/request/TEGlVBwTP7oX1OkGVCgW) срок 14.11.2021
 
-ДЗ7 -  
+ДЗ7 -  [сюда](https://www.dropbox.com/request/EsoPd5FXMaNKQO9RdXIg) срок 21.11.2021
 
 ДЗ8 - 
 
